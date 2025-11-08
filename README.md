@@ -1,6 +1,6 @@
 # rubify README
 
-This is the README for your extension "rubify". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "rubify".
 
 ## design implementation 
 An LSP server running and interacting with ruby-wasm in a web-worker, while LSP client is a library running within the Extension Host Node process.
